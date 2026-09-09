@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Matthew (@matthew-king8646) 👋
 
-<!--
-**matthew-king8646/matthew-king8646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Austin, TX. Currently at Tech Labs building internal services, APIs, and data plumbing. Most of my time goes into writing Go or Python, optimizing Postgres queries, and debugging distributed state.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- High-throughput backend services in Go and FastAPI
+- Caching layers and job queues using Redis
+- CI/CD automation and containerized environments with Docker
+- Leveling up on database internals and distributed consensus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+`Go` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
+
+#### Get in touch
+- Email: matthewking.dev@gmail.com
+- LinkedIn: linkedin.com/in/matthew-king8646
+- Bluesky: @matthewk.bsky.social
